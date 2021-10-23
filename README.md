@@ -1,5 +1,6 @@
 # Christmas_Gift_Giving
-     Aceasta aplicatie gestioneaza un set de surprize. Tipurile de surprize (Candies, Fortune Cookies si Minion Toys) implementeaza interfata ISurprise. 
+
+Aceasta aplicatie gestioneaza un set de surprize. Tipurile de surprize (Candies, Fortune Cookies si Minion Toys) implementeaza interfata ISurprise.
 Toate surprizele vor fi depozitate in 3 tipuri de containere, care vor dicta modul de stocare si mai ales ordinea in care surprizele vor fi impartite. 
 Deoarece dorim sa operam cu orice tip de container intr-un mod transparent, independent de implementare, vom utiliza o interfata IBag ce va defini protocolul concret de comunicare. Se implementeaza urmatoarele tipuri de containere de surprize:
 - un container care va da cadourile din interior intr-o ordine aleatoare
