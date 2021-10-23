@@ -1,4 +1,6 @@
 # Christmas_Gift_Giving
+Aceasta aplicatie gestioneaza un set de surprize. Tipurile de surprize (Candies, Fortune Cookies si Minion Toys) implementeaza interfata ISurprise. Toate surprizele vor fi depozitate in diverse tipuri de containere, care vor dicta modul de stocare si mai ales ordinea in care surprizele vor fi impartite. Deoarece dorim sa operam cu orice tip de container intr-un mod transparent, independent de implementare, vom utiliza o interfata ce va defini protocolul concret de comunicare.
+
 
 Aplicatia urmatoare are ca scop aprofundarea conceptelor de design a ierarhiei de clase si se urmareste punerea in practica a urmatoarelor notiuni:
 - reutilizarea functionalitatii prin diverse procedee, precum:
@@ -13,6 +15,6 @@ Aplicatia urmatoare are ca scop aprofundarea conceptelor de design a ierarhiei d
 - familiarizarea cu conceptul de genericitate in dezvoltarea software
 
 Scopul final este de a obtine un sistem generic capabil sa:
-    - utilizeze mai multe tipuri de surprize (i.e. ce implementeaza o interfata comuna)
-    - implementeze diversi algoritmi de stocare si daruire a surprizelor
-    - foloseasca un mecanism puternic, aleator de generare a unui set (nou) de surprize
+- utilizeze mai multe tipuri de surprize (i.e. ce implementeaza o interfata comuna)
+- implementeze diversi algoritmi de stocare si daruire a surprizelor
+- foloseasca un mecanism puternic, aleator de generare a unui set (nou) de surprize
