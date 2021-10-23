@@ -1,9 +1,9 @@
 # Christmas_Gift_Giving
 
 Aplicatia urmatoare are ca scop aprofundarea conceptelor de design a ierarhiei de clase si se urmareste punerea in practica a urmatoarelor notiuni:
-    - reutilizarea functionalitatii prin diverse procedee, precum:
+- reutilizarea functionalitatii prin diverse procedee, precum:
     - mostenire
-    - compunere si agregare
+       - compunere si agregare
     - ascunderea functionalitatii si a datelor prin incapsulare
     - implementarea de metode wrapper si utilizarea delegarii
     - continuarea dezvoltarii abilitatilor practice de design si proiectare a unei arhitecturi de clase, nivel mediu de complexitate
